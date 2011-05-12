@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(221,247,255);
+  font-family: helvetica, arial, sans-serif;
+  color: rgb(0,70,91);
+  line-height: 25px;
+}
+
+#header { 
+  position: relative;
+  margin: 0 auto;
+  background-color: rgb(17,78,103);
+  color: rgb(255,255,255);
+  border-bottom: 1px solid rgb(255,255,255);
+}
+
+#header p {
+  margin: 0;
+  padding: 20px;
+}
+
+.notice {
+  padding: 20px;
+  background-color: rgb(39,230,147);
+  border-top: 1px solid rgb(117,246,190);
+}
+
+.loading {
+  padding: 20px;
+  background-color: rgb(230,129,39);
+  border-top: 1px solid rgb(293,255,134);
+}
