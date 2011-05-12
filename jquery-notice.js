@@ -1,5 +1,8 @@
 /*
+ * jQuery notice
  * Display or remove a notice in an element
+ *
+ * Author: Yves Van Broekhoven
  */
 (function($){
   
